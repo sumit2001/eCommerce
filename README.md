@@ -8,11 +8,11 @@
 
 ![Mobile Screenshot](./mobile_screenshot.png)
 
-This repository contains the code for the Full Stack E-Commerce Website developed as part of the Udemy course ["Full Stack: Angular and Java Spring Boot E-Commerce Website"](https://www.udemy.com/course/full-stack-angular-spring-boot-tutorial/) by [Chad Darby](https://github.com/darbyluv2code). The project leverages various technologies, including Java 11, Apache Maven, Hibernate, Spring Core, Spring Data, Spring REST, Spring Boot, Spring Security, TypeScript, Angular, Okta, Stripe, and Swagger API.
+This repository contains the code for the Full Stack E-Commerce Website developed as part of the Personal Project. The project leverages various technologies, including Java 11, Apache Maven, Hibernate, Spring Core, Spring Data, Spring REST, Spring Boot, Spring Security, TypeScript, Angular, Okta, Stripe, and Swagger API.
 
 ## Overview
 
-This E-Commerce website, known as "Luv2Shop," is a full-stack application built with Angular and Java Spring Boot. It includes a wide range of features and functionalities necessary for a modern online store. The project is designed to showcase best practices in building robust and secure web applications using the technologies mentioned above.
+This E-Commerce website is a full-stack application built with Angular and Java Spring Boot. It includes a wide range of features and functionalities necessary for a modern online store. The project is designed to showcase best practices in building robust and secure web applications using the technologies mentioned above.
 
 ## Features
 
@@ -117,19 +117,4 @@ To make the most of the Luv2Shop website, follow these steps:
    - After successfully placing your order, a confirmation popup will appear.
    - Additionally, you can access the "Orders" section in your account to view all your orders.
 
-## Demo
-
-You can preview Luv2Shop live demo at [luv2shop-ecommerce](https://luv2shop-ecommerce.netlify.app). The demo provides a hands-on experience of the website's features and functionality.
-
-## Video Demonstration
-
-Watch a video demonstration of the Luv2Shop project [here](https://www.youtube.com/watch?v=jLlTbAgyTbQ).
-
-## Contact Information
-
-If you have any questions, suggestions, or just want to get in touch, you can reach us at:
-
-- Email: [awintiahmed2017@gmail.com](mailto:awintiahmed2017@gmail.com)
-- LinkedIn: [Ahmed Aouinti](https://www.linkedin.com/in/ahmed-aouinti-8a6974146/)
-
-We appreciate your interest and look forward to your contributions and feedback!
+I appreciate your interest and look forward to your contributions and feedback!
